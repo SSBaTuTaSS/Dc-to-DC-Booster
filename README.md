@@ -12,7 +12,7 @@ The circuit was simulated in **LTspice** and designed in **KiCad** for PCB manuf
 - Key Components: Inductor, fast diode, MOSFET, bypass capacitors, and adjustable potentiometer  
 - Application: Prototyping, powering devices requiring higher voltage from low-voltage sources (battery, USB, etc.)
 
-## 📐 KiCad Şematik
+## 📐 KiCad Schematic
 
 Below is the KiCad schematic for the DC-DC Booster circuit:
 
