@@ -35,21 +35,21 @@ Specifications of Circuit
 ## 📐 KiCad Schematic
 Below is the KiCad schematic for the DC-DC Booster circuit:
 
-![DC-DC Booster Schematic](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/pcb/schematic.png)
+![DC-DC Booster Schematic](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/images/schematic2.png)
 
 ---
 
 ## 🖼️ PCB Layout
 2D PCB layout generated in KiCad (**2-layer, FR4 substrate**):  
 
-![PCB Layout](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/pcb/PCB2D%20V2.png)
+![PCB Layout](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/images/PCB2D%20V2.png)
 
 ---
 
 ## 🎨 3D PCB View
 3D model rendered with KiCad Viewer:  
 
-![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/pcb/PCB%203D.png)  
+![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/images/PCB%203D.png)  
 ![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/pcb/image.png)
 
 
