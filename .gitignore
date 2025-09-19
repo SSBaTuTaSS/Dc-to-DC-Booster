@@ -34,3 +34,6 @@ fp-info-cache
 **/*DCtoDCboost-backups/*
 *-fp-info-cache
 *-tpssembol.bak
+"DCtoDCboost-backups/" 
+"fp-info-cache" 
+"tpssembol.bak" 
