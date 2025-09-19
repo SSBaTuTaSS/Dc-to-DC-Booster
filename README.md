@@ -50,7 +50,7 @@ Below is the KiCad schematic for the DC-DC Booster circuit:
 3D model rendered with KiCad Viewer:  
 
 ![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/images/PCB%203D.png)  
-![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/pcb/image.png)
+![3D PCB](https://github.com/SSBaTuTaSS/Dc-to-Dc-Booster/blob/main/images/3D%20V2.png)
 
 
 ---
